@@ -1,0 +1,11 @@
+0717 today I learned...
+
+- add, commit ,push
+
+- how to revert the commits I made
+
+- how to set up a github repository
+
+- set upstream and commit my local files to the repository, vice versa
+
+- make a gitignore list and make the commit ignore the files on the list
